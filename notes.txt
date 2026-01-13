@@ -1,0 +1,3 @@
+BridgeLabz Git Demo
+Creating the merge conflict
+
